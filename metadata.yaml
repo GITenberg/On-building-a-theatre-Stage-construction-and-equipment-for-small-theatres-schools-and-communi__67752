@@ -1,11 +1,16 @@
 _repo: On-building-a-theatre-Stage-construction-and-equipment-for-small-theatres-schools-and-communi__67752
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67752-h/images/cover.jpg
 creator:
   author:
     agent_name: Pichel, Irving
     gutenberg_agent_id: '54437'
     url: http://www.gutenberg.org/2009/agents/54437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67752#On-building-a-theatre-Stage-construction-and-equipment-for-small-theatres-schools-and-communi_
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67752'
